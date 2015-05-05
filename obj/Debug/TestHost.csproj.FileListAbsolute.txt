@@ -1,0 +1,6 @@
+c:\users\thomas.leidl\documents\visual studio 2012\Projects\TestHost\TestHost\bin\Debug\TestHost.dll.config
+c:\users\thomas.leidl\documents\visual studio 2012\Projects\TestHost\TestHost\bin\Debug\TestHost.dll
+c:\users\thomas.leidl\documents\visual studio 2012\Projects\TestHost\TestHost\bin\Debug\TestHost.pdb
+c:\users\thomas.leidl\documents\visual studio 2012\Projects\TestHost\TestHost\obj\Debug\TestHost.dll
+c:\users\thomas.leidl\documents\visual studio 2012\Projects\TestHost\TestHost\obj\Debug\TestHost.pdb
+C:\Users\thomas.leidl\Documents\Visual Studio 2012\Projects\TestHost\TestHost\obj\Debug\TestHost.csprojResolveAssemblyReference.cache
